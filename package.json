@@ -1,0 +1,9 @@
+{
+  "name": "gbooks-js",
+  "version": "0.0.1",
+  "description": "Google Books API Consume",
+  "main": "src/core.js",
+  "repository": "https://github.com/gabrielhz/gbooks-js.git",
+  "author": "gabrielhz <gabrielramoscardoso@hotmail.com>",
+  "license": "MIT"
+}
