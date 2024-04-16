@@ -3,7 +3,17 @@
   "version": "0.0.1",
   "description": "Google Books API Consume",
   "main": "src/core.js",
-  "repository": "https://github.com/gabrielhz/gbooks-js.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielhz/gbooks-js.git"
+  },
   "author": "gabrielhz <gabrielramoscardoso@hotmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gabrielhz/gbooks-js/issues"
+  },
+  "homepage": "https://github.com/gabrielhz/gbooks-js#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
